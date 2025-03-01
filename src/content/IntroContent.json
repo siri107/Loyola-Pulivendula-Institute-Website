@@ -1,0 +1,16 @@
+{
+  "title": "Welcome to Loyola Polytechnic (YSRR)",
+  "text": "Loyola Polytechnic, Formerly known as Sri Y.S Raja Reddy Polytechnic, was established in the year 1980 by Sri Y.S - Raja Reddy Educational Trust.",
+  "videourl": "https://www.youtube.com/watch?v=mwVWIJHGWGU",
+  "button": [
+    {
+      "title": "Explore Courses",
+      "url": "courses"
+    },
+    {
+      "title": "Infrastructure",
+      "color": "#fff",
+      "url": "infrastructure"
+    }
+  ]
+}

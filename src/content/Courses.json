@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Computer Engineering",
+    "imageURL": "./img/software-engineer.png",
+    "button": "View Course",
+    "name": "computer-engineer"
+  },
+  {
+    "title": "Electrical Engineering",
+    "imageURL": "./img/electrical_engineer.png",
+    "button": "View Course",
+    "name": "electrical-engineer"
+  },
+  {
+    "title": "Electronics Engineering",
+    "imageURL": "./img/communication.png",
+    "button": "View Course",
+    "name": "electronics-engineer"
+  },
+  {
+    "title": "Mechanic Engineer",
+    "imageURL": "./img/mechanical_engineer.png",
+    "button": "View Course",
+    "name": "mechanical-engineer"
+  },
+  {
+    "title": "Mining Engineering",
+    "imageURL": "./img/mining-engineer.png",
+    "button": "View Course",
+    "name": "chemical-engineer"
+  },
+  {
+    "title": "Civil Engineering",
+    "imageURL": "./img/civil_engineer.png",
+    "button": "View Course",
+    "name": "civil-engineer"
+  }
+]

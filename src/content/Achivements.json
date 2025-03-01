@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Cleen & Green",
+    "imageURL": "./img/achievement_5.jpeg",
+    "name": ""
+  },
+  {
+    "title": "Tiranga Rally",
+    "imageURL": "./img/achievement_6.jpeg",
+    "name": ""
+  },
+ 
+  {
+    "title": "Alumni Meet",
+    "imageURL": "./img/achievement_8.jpeg",
+    "name":""
+  },
+  {
+    "imageURL": "./img/achievement_9.jpeg",
+    "name": ""
+  },
+  {
+    "title": "",
+    "imageURL": "./img/achievement_10.jpg",
+    "name": ""
+  },
+  
+    {
+      "title": "",
+      "imageURL": "./img/achievement_1.jpeg",
+      "name": ""
+    },
+    {
+      "imageURL": "./img/achievement_2.jpeg",
+      "name": ""
+    },
+   
+    {
+      "title": "Sankranthi",
+      "imageURL": "./img/achievement_3.jpeg",
+      "name": ""
+    },
+    {
+      "title": "Flood Relief Help",
+      "imageURL": "./img/achievement_7.jpeg",
+      "name":""
+    },
+    {
+      "title": "Teachers Day",
+      "imageURL": "./img/achievement_4.jpeg",
+      "name" : ""
+    }
+   
+  ]  

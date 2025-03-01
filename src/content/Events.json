@@ -1,0 +1,58 @@
+[
+  
+  {
+    "title": "Project Expro",
+    "imageURL": "./img/project-expro.jpg",
+    "name": ""
+  },
+  {
+    "title": "Freshers Day",
+    "imageURL": "./img/freshers-day.jpg",
+    "name": ""
+  },
+  {
+    "title": "Sankranthi",
+    "imageURL": "./img/sankranthi.jpg",
+    "name": ""
+  },
+  {
+    "title": "Teachers Day",
+    "imageURL": "./img/teachers-day.jpg",
+    "name" : ""
+  },
+  {
+    "title": "Cleen & Green",
+    "imageURL": "./img/clean-green.jpg",
+    "name": ""
+  },
+  {
+    "title": "Tiranga Rally",
+    "imageURL": "./img/tiranga-rally.jpg",
+    "name": ""
+  },
+  {
+    "title": "Flood Relief Help",
+    "imageURL": "./img/flood-relief.jpg",
+    "name":""
+  },
+  {
+    "title": "Alumni Meet",
+    "imageURL": "./img/alumni-meet.jpg",
+    "name":""
+  },
+  {
+    "title": "",
+    "imageURL": "./img/event_17.jpeg",
+    "name":""
+  },
+  {
+    "title": "",
+    "imageURL": "./img/event_18.jpeg",
+    "name":""
+  },
+  {
+    "title": "",
+    "imageURL": "./img/event_20.jpeg",
+    "name":""
+  }
+]

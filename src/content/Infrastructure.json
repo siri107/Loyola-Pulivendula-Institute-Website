@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Library",
+    "imageURL": "./img/library.jpg",
+    "name": "library",
+    "button": ""
+  },
+  {
+    "title": "Auditorium",
+    "imageURL": "./img/auditorium.jpg",
+    "name": "auditorium"
+  },
+  {
+    "title": "Seminar Hall",
+    "imageURL": "./img/seminar-hall.jpg",
+    "name": "seminor-hall"
+  },
+  {
+    "title": "Boys Hostel",
+    "imageURL": "./img/hostel.jpg",
+    "name": "hostel"
+  },
+  {
+    "title": "Girls Hostel",
+    "imageURL": "./img/girls_hostel.jpg",
+    "name": "girls_hostel"
+  },
+  {
+    "title": "Department",
+    "imageURL": "./img/exam-section.jpg",
+    "name" : "exam-section"
+  },
+  {
+    "title": "Gym",
+    "imageURL": "./img/gym.jpg",
+    "name": "gym"
+  },
+  {
+    "title": "Physics Lab",
+    "imageURL": "./img/physics-lab.jpg",
+    "name": "physics-lab"
+  },
+  {
+    "title": "Chemistry Lab",
+    "imageURL": "./img/chemistry-lab.jpg",
+    "name":"chemistry-lab"
+  },
+  {
+    "title": "Computer Lab",
+    "imageURL": "./img/computer-lab.jpg",
+    "name":"computer-lab"
+  },
+  {
+    "title": "Mechanical Lab",
+    "imageURL": "./img/mechanical-lab.jpg",
+    "name":"mechanical-lab"
+  },
+  {
+    "title": "Electronic Lab",
+    "imageURL": "./img/electronic-lab.jpg",
+    "name": "electronic-lab"
+  },
+  {
+    "title": "Electrical Lab",
+    "imageURL": "./img/electrical-lab.jpg",
+    "name": "electrical-lab"
+  },
+  {
+    "title": "Civil Lab",
+    "imageURL": "./img/civil-lab.jpg",
+    "name": "civil-lab"
+  },
+  {
+    "title": "Mining Lab",
+    "imageURL":"./img/mining-lab.jpg",
+    "name": "mining-lab"
+  }
+]

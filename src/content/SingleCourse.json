@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Computer Engineering",
+    "imageURL": "./img/software-engineer.png",
+    "labURL": "./img/computer-lab.jpg",
+    "vision": "To equip students with adequate technical knowledge for integrating into real-time projects and prepare them to contribute to the fields of academics, industries, and society.",
+    "name": "computer-engineer",
+    "mission": [
+      "To produce high-quality computer science diploma graduates who understand fundamental concepts in computer engineering through intellectual inputs.",
+      "To impart quality education, hands-on experience, and value education while being sensitive to environmental, safety, and economic contexts in solving real-world problems.",
+      "To expose students to intensive training in computer engineering tools and applications, preparing them for careers in the industry and profession."
+    ],
+    "peos": [
+      "Understand the principles and operations of computer systems, and assess both hardware and software aspects.",
+      "Understand software development methodologies, possess skills in the software design process, and demonstrate practical competence in programming languages and open-source platforms.",
+      "Apply mathematical methodologies to solve computational tasks, model real-world problems with appropriate data structures and algorithms, and use industry experience gained during training to establish new ventures."
+    ],
+    "headOfDepartment": {
+      "name": "Rev Fr. P. VIJAYA RAJU SJ",
+      "imageURL": "img/hod_cme.png"
+    },
+    "faculty":{
+      "imageURL": "img/faculty_cme.png"
+    },
+    "pdfLocation": {
+      "C20": "curriculum_pdfs/C20_computer.pdf",
+      "C23": "curriculum_pdfs/C23_computer.pdf"
+    }
+  },
+  {
+    "title": "Electrical Engineering",
+    "imageURL": "./img/electrical_engineer.png",
+    "labURL": "./img/electrical-lab.jpg",
+    "button": "View Course",
+    "name": "electrical-engineer",
+    "vision": "To develop Electrical & Electronics Engineering Professionals competent to face the global challenges in an Edifying environment conductive to learn technical knowledge, skills blended with ethics and values, to Coordinate and serve to the society for betterment and comfortable living.",
+    "mission": [
+      "To provide quality education and training in the design, analysis, and implementation of electrical systems.",
+      "To develop professional engineers who can innovate, adapt to emerging technologies, and address the growing demand for energy efficiency and sustainability.",
+      "To prepare students for careers in electrical engineering by providing opportunities for practical exposure, industrial training, and research."
+    ],
+    "peos": [
+      "Ability to apply engineering principles to solve real-world electrical engineering problems in both academic and professional settings.",
+      "Equipped with the skills to analyze, design, and manage electrical systems, focusing on sustainable and efficient energy use.",
+      "Develop ethical, social, and environmental responsibility while pursuing continuous learning and contributing to technological advancement."
+    ],
+    "headOfDepartment": {
+      "name": "Darasi Anantha Kumar",
+      "imageURL": "img/hod_eee.png"
+    },
+    "faculty":{
+      "imageURL": "img/faculty_eee.png"
+    },
+    "pdfLocation": {
+      "C20": "curriculum_pdfs/C20_eee.pdf",
+      "C23": "curriculum_pdfs/C23_eee.pdf"
+    }
+  },
+  {
+    "title": "Electronics Engineering",
+    "imageURL": "./img/communication.png",
+    "labURL": "./img/electronic-lab.jpg",
+    "button": "View Course",
+    "name": "electronics-engineer",
+    "vision": "To prepare engineers who can innovate and advance electronics technologies for solving modern societal challenges.",
+    "mission": [
+      "To provide quality education in the principles and applications of electronics, telecommunications, and related fields.",
+      "To foster a culture of innovation and creativity in electronics and communication systems.",
+      "To prepare students to meet the demands of industry and research, equipping them with the necessary technical skills and ethical values."
+    ],
+    "peos": [
+      "Ability to design, develop, and implement electronics and communication systems with a focus on practical and innovative solutions.",
+      "Equip students with a strong foundation in both the theory and application of electronics systems for real-world challenges.",
+      "Develop leadership, teamwork, and ethical values in students, preparing them for continuous professional growth in electronics engineering."
+    ],
+    "headOfDepartment": {
+      "name": "Bhumireddy Venkata Rami Reddy",
+      "imageURL": "img/hod_ece.png"
+    },
+    "faculty":{
+      "imageURL": "img/faculty_ece.png"
+    },
+    "pdfLocation": {
+      "C20": "curriculum_pdfs/C20_ece.pdf",
+      "C23": "curriculum_pdfs/C23_ece.pdf"
+    }
+  },
+  {
+    "title": "Mechanical Engineering",
+    "imageURL": "./img/mechanical_engineer.png",
+    "labURL": "./img/mechanical-lab.jpg",
+    "button": "View Course",
+    "name": "mechanical-engineer",
+    "vision": "To produce highly competent mechanical engineers who excel in designing and implementing innovative mechanical systems to meet global technological needs.",
+    "mission": [
+      "To provide a comprehensive education in the principles of mechanical engineering, emphasizing both theoretical and practical aspects.",
+      "To foster critical thinking, creativity, and innovation among students, preparing them to address global engineering challenges.",
+      "To equip students with the necessary skills to work effectively in diverse engineering environments, focusing on sustainability and advanced technologies."
+    ],
+    "peos": [
+      "Ability to analyze and design mechanical systems using modern tools and techniques in the field of mechanical engineering.",
+      "Develop problem-solving skills and an understanding of manufacturing, design, and thermodynamics to address real-world issues.",
+      "Foster ethical, professional, and environmental responsibility while contributing to the advancement of mechanical engineering technologies."
+    ],
+    "headOfDepartment": {
+      "name": "Gonumakulapalle John Sebastian",
+      "imageURL": "img/hod_mechanical.png"
+    },
+    "faculty":{
+      "imageURL": "img/faculty_mechanical.png"
+    },
+    "pdfLocation": {
+      "C20": "curriculum_pdfs/C20_mech.pdf",
+      "C23": "curriculum_pdfs/C23_mech.pdf"
+    }
+  },
+  {
+    "title": "Civil Engineering",
+    "imageURL": "./img/civil_engineer.png",
+    "labURL": "./img/civil-lab.jpg",
+    "button": "View Course",
+    "name": "civil-engineer",
+    "vision": "To develop professional civil engineers capable of solving complex infrastructural problems for sustainable development and societal well-being.",
+    "mission": [
+      "To provide an in-depth understanding of civil engineering principles and applications, preparing students for real-world challenges.",
+      "To offer hands-on learning experiences that enhance the understanding of construction, design, and analysis of civil structures.",
+      "To prepare students for leadership roles in civil engineering, promoting sustainable practices and ensuring safety, ethics, and professionalism."
+    ],
+    "peos": [
+      "Ability to design, analyze, and implement civil engineering solutions to meet societal infrastructure needs.",
+      "Develop an understanding of sustainable construction practices and apply them to real-world civil engineering problems.",
+      "Exhibit leadership, ethical responsibility, and commitment to continuous professional development in civil engineering."
+    ],
+    "headOfDepartment": {
+      "name": "Kandula Muralidhar Reddy",
+      "imageURL": "img/hod_civil.png"
+    },
+    "faculty":{
+      "imageURL": "img/faculty_civil.png"
+    },
+    "pdfLocation": {
+      "C20": "curriculum_pdfs/C20_civil.pdf",
+      "C23": "curriculum_pdfs/C23_civil.pdf"
+    }
+  },
+  {
+    "title": "Mining Engineering",
+    "imageURL": "./img/chemical.png",
+    "labURL": "./img/mining-lab2.png",
+    "button": "View Course",
+    "name": "chemical-engineer",
+    "vision": "Vision of the Institute To Maintain the Standard of Mining Education and Commitment for Basic Research and Ap- plied Research in the diverse fields of Mining and excavation engineering.",
+    "mission": [
+      "Produce Mining Engineers in the Field of Mining Operation and Mine Planning by strengthening the Basic scientific and Engineering Knowledge.",
+      "Cultivate in students to pursue higher education in Mining operations and planning Related fields and develop the Entrepreneurship Skills in Mining."
+    ],
+    "peos": [
+      "To develop graduates with the knowledge and skills required to analyze, design, and manage mining operations, focusing on safety, sustainability, and efficient resource extraction techniques."
+    ],
+    "headOfDepartment": {
+      "name": "",
+      "imageURL": ""
+    },
+    "faculty":{
+      "imageURL": "img/faculty_civil.png"
+    },
+    "pdfLocation": {
+      "C20": "curriculum_pdfs/C20_mining.pdf",
+      "C23": "curriculum_pdfs/C23_mining.pdf"
+    }
+  }
+]

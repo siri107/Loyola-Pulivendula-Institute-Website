@@ -1,0 +1,70 @@
+{
+    "admissionCriteria": {
+      "institution": "Loyola Polytechnic (YSRR), Pulivendla",
+      "minorityStatus": "Christian Minority Institution",
+      "quota": {
+        "minorityQuota": "30% of seats are reserved for Christian students",
+        "generalQuota": "Remaining seats are open to others without distinction of caste, creed, or religion as per Government rules"
+      },
+      "coursesAvailable": [
+        {
+          "courseName": "Diploma in Computer Engineering",
+          "shortName": "CME",
+          "intake": 120,
+          "duration": "3 Years"
+        },
+        {
+          "courseName": "Diploma in Electronics Engineering",
+          "intake": 180,
+          "shortName": "EEE",
+          "duration": "3 Years"
+        },
+        {
+          "courseName": "Diploma in Electrical Engineering",
+          "intake": 180,
+          "shortName": "ECE",
+          "duration": "3 Years"
+        },
+        {
+          "courseName": "Diploma in Mining Engineering",
+          "intake": 36,
+          "shortName": "MNG",
+          "duration": "3 Years"
+        },
+        {
+          "courseName": "Diploma in Mechanical Engineering",
+          "intake": 60,
+          "shortName": "MECH",
+          "duration": "3 Years"
+        },
+        {
+          "courseName": "Diploma in Civil Engineering",
+          "intake": 90,
+          "shortName": "CIVIL",
+          "duration": "3 Years"
+        }
+      ],
+      "admissionPolicy": {
+        "minorityQuotaSeats": "30% of the seats will be filled based on merit in the qualifying examination",
+        "governmentQuotaSeats": "Remaining seats will be filled by the Government as per the norms of reservations in force"
+      },
+      "eligibilityCriteria": {
+        "entranceExam": "Candidates must appear for the common entrance examination (POLYCET) conducted by the State Board of Technical Education and Training, Andhra Pradesh, Hyderabad",
+        "requirements": [
+          "Candidates must satisfy the eligibility requirements as per the rules laid down by the authorities",
+          "Candidates must meet the academic and age criteria specified by the POLYCET examination"
+        ]
+      },
+      "documentsRequired": [
+        "Marks card of S.S.C",
+        "Transfer Certificate (at the time of admission only)",
+        "Conduct Certificate",
+        "Study Certificate (IV to X)",
+        "Residence Certificate",
+        "Physical Fitness Certificate",
+        "Caste Certificate (if belongs to SC/ST and BC)",
+        "Income Certificate"
+      ]
+    }
+  }
+  

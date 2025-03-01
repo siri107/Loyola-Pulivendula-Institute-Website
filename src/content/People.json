@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Fr Principal",
+    "imageURL": "./img/principal.jpg",
+    "button": "",
+    "linkURL": "",
+    "name": "Rev. Fr. N. Britto Martin Paul SJ"
+  },
+  {
+    "title": "Fr Vice Principal",
+    "imageURL": "./img/vice-principal.jpg",
+    "button": "",
+    "linkURL": "",
+    "name": "Rev. Fr.P. Vijaya Raju, SJ"
+  },
+  {
+    "title": "Fr Correspondent",
+    "imageURL": "./img/correspondent.jpg",
+    "button": "",
+    "linkURL": "",
+    "name": "Rev. Fr.V. Antony Samy SJ"
+  },
+  {
+    "title": "Teaching Staff",
+    "imageURL": "./img/teaching-staff.jpg",
+    "button": "View People",
+    "name": "",
+    "linkURL": "https://loyolapolytechnic.co.in/LOYOLA%20POLYTECHNIC%20FACULTY.pdf"
+  }
+]
